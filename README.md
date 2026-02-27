@@ -1,4 +1,5 @@
 # IT-Academy
+## Data Analyst
 
 EN  
 This repository brings together the sprints completed during the Data Analyst IT Academy. It includes exercises, analyses, and projects developed with Python, SQL, MongoDB and Power BI. Its purpose is to showcase my progress and strengthen my skills as a data analyst.
